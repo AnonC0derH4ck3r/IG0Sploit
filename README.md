@@ -9,7 +9,7 @@ Bug Bounty Program. However, it can be used to hijack an instagram account using
 3. Run the script by using, **python exploit.py**.
 4. Provide the main url which the victim will see upon clicking the link in the bio.
 5. Provide the redirect url where the parent window (Instagram) will be redirected to.
-6. Wait for the script to start the PHP Server. Once the php server has been started, you can copy the ngrok link into an instagram account's bio.
+6. Wait for the script to start the PHP Server. Once the php server has been started, you can copy the ngrok link and paste it into an instagram account's bio.
 7. Wait for the victims to open the link via brower by visiting your instagram profile, as soon as they click on your link they'll be tab nabbed to you redirect url.
 
 # Disclaimer:-
