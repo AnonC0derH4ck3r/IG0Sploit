@@ -1,7 +1,7 @@
 # IG0Sploit by AnonC0derH4ck3r
 
 This tool exploits Tab Nabbing vulnerability on Instagram. The vulnerability is already reported to instagram, but it comes under the exclusions of the Facebook
-Bug Bounty Program. However, it can be used to hijack an instagram account using Social Enginner or Phishing Attack.
+Bug Bounty Program. However, it can be used to hijack an instagram account using Social Engineer or Phishing Attack.
 
 **Steps to Reproduce:-**
 1. You must start ngrok server prior to running this tool by using command **ngrok http 80**.
